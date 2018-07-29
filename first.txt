@@ -3,3 +3,4 @@ Edited online
 Change added on new branch
 
 Second change for merge conflict
+New line for conflict
