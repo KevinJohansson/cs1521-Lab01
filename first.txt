@@ -1,3 +1,5 @@
 First line added
 Edited online
-Chang added on new branch
+Change added on new branch
+
+Second change for merge conflict
